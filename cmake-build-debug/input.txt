@@ -1,0 +1,23 @@
+3
+C 1 a e i 1 1 bbab
+A 3 b f j 2 2 bbab
+V 12 c g k 3 3 bbab
+A 5 d h l 4 4 bbab
+B 1 m n o 5 5 bbab
+V 6 aa bb cc 6 6 bbab
+B 7 dd ee ff 7 7 bbab
+A 8 gg hh ii 8 8 bbab
+C 832 aaabba abbb aaa 11 40 bbab
+G 1001 aaabba abbb aaa 11 40 bbab
+M 901 aaabba abbb aaa 11 40 bbab
+V 1010 aaabba abbb aaa 11 40 bbab
+F 10 aaabba abbb aaa 11 40 bbab
+A 10 aaabba abbb aaa 11 40 bbab
+A 10 aaabba abbb aaa 11 40 bbab
+F 10 aaabba abbb aaa 11 40 bbab
+C 10 aaabba abbb aaa 11 40 bbab
+G 10 aaabba abbb aaa 11 40 bbab
+V 10 aaabba abbb aaa 11 40 bbab
+T 10 aaabba abbb aaa 11 40 bbab
+
+
